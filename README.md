@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m Andrey Malov, a student from the Russian Federation.
+
+🌱 I’m currently learning Computer Science.
+
+📫 How to reach me: [Telegram](https://t.me/andreymlv), [VK](https://vk.com/andreymlv)
+
 <!--
 **andreymlv/andreymlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
