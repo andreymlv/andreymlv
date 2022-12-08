@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I’m Andrey Malov, a student from the Russian Federation.
+I'm Andrey Malov, a student from Russia.
 
 🌱 I’m currently learning Computer Science.
+
+I use Artix Linux on a regular basis. NeoVim is my main code editor.
+I am interested in new technologies, but I am also constantly studying not very mainstream technologies: forgotten and not very programming languages.
+
+If you want to hire me, then I won't mind =)
 
 📫 How to reach me: [Telegram](https://t.me/andreymlv), [VK](https://vk.com/andreymlv)
 
