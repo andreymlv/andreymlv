@@ -6,7 +6,7 @@ I'm Andrey Malov, a student from Russia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymlv&count_private=true&show_icons=true&theme=gruvbox)
 
-I use Arch Linux on a regular basis. NeoVim is my main code editor.
+I use Arch Linux (and [NixOS now](https://github.com/andreymlv/nixos-config/)) on a regular basis. [Neovim](https://github.com/andreymlv/nvim) is my main code editor.
 I am interested in new technologies, but I am also constantly studying not very mainstream technologies: forgotten and not very popular programming languages.
 
 My favorite color theme is gruvbox <3
