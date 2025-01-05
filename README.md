@@ -9,7 +9,7 @@ My favorite color theme is gruvbox <3
 
 If you want to hire me, then I won't mind =)
 
-📫 How to reach me: [Telegram](https://t.me/andreymlv), [VK](https://vk.com/andreymlv)
+📫 How to reach me: [Telegram](https://t.me/andreymlv)
 
 <!--
 **andreymlv/andreymlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
